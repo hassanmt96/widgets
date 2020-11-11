@@ -32,7 +32,7 @@ class Clock extends React.Component {
 
             <div className='Clock'>
                 <h1>Clock</h1>
-                <h2 className='time'>Time</h2>
+                <h2>Time</h2>
                 <p>
                 {hours}:{minutes}:{seconds} PDT
                 </p>
