@@ -1,6 +1,7 @@
 import React from 'react';
 import Clock from './Clock';
 import Folder from './Folder';
+import Weather from './Weather';
 
 const Root = () => {
   const folders = [
